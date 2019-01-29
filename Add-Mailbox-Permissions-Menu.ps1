@@ -76,4 +76,4 @@ $Date = Get-Date
 Add-MailboxPermission -Identity  "$Identity" -User "$User" -AccessRights $AccessRights -AutoMapping $AutoMappingConverted
 
 #Final Output to user
-Write-Host "You gave $User $AccessRights to the mailbox for $Identity on $Date. Please check with the user that the process did complete as expected."
+Write-Host "You gave $User $AccessRights to the mailbox for $Identity on $Date. Please check with the end user that the process did complete as expected."
