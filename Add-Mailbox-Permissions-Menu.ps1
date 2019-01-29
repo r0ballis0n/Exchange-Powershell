@@ -1,12 +1,12 @@
 Write-Host""
 Write-Host "============================================================"
-Write-Host "               Mailbox Permisssion Script                   "
+Write-Host "           Add Mailbox Permisssion Script                   "
 Write-Host "============================================================"
 Write-Host ""
 Write-Host "This script will go through the setup process for giving a  "
 Write-Host "user access to another user's mailbox. Please follow the    "
 Write-Host "prompts to complete the process. Don't forget to contact the"
-Write-Host "user to verify that it worked as expected."
+Write-Host "end user to verify that it worked as expected."
 Write-Host ""
 
 #Variables
